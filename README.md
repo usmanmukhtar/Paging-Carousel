@@ -1,7 +1,5 @@
 # Paging-Carousel
-Paging Carousel using the new swiftUI 2.0
-
-[Food App: Paging Carousel - Swift 2.0 for IOS 14](https://youtu.be/DfIYha8v3zM)</br></br>
+Paging Carousel using the new swiftUI 2.0, you can check out the implimentation from here: [Food App: Paging Carousel - Swift 2.0 for IOS 14](https://youtu.be/DfIYha8v3zM)</br>
 > Please do support my channel by subscribing and liking the video
 
 ## Preview
